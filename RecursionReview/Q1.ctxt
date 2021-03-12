@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q1
+comment1.params=
+comment1.target=Q1()
+comment2.params=a\ b
+comment2.target=int\ gcd(int,\ int)
+numComments=3
