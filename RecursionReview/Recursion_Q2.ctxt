@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Recursion_Q2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ printStars(int)
+comment3.params=i
+comment3.target=void\ triangle(int)
+comment4.params=i
+comment4.target=void\ reverseTriangle(int)
+numComments=5
